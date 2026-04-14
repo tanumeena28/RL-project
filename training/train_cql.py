@@ -57,5 +57,11 @@ def main():
     cql.save_model(args.output)
     print(f"Saved exact replica CQL policy to {args.output}")
 
+    # Generate improved accuracy plot after training
+    import sys
+    sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    from plot_metrics import generate_comparison_plot
+    generate_comparison_plot()
+
 if __name__ == "__main__":
     main()
