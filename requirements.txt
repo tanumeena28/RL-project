@@ -1,0 +1,8 @@
+anthropic
+torch
+d3rlpy
+numpy
+pandas
+scikit-learn
+tqdm
+python-dotenv

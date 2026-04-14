@@ -1,0 +1,44 @@
+[
+  [
+    {
+      "role": "Student",
+      "text": "I don't know how to do this Carla downloading problem."
+    },
+    {
+      "role": "Tutor",
+      "text": "Let's break it down. How many GB is the whole file?"
+    },
+    {
+      "role": "Student",
+      "text": "200 GB. And she downloads 2 GB per minute."
+    },
+    {
+      "role": "Tutor",
+      "text": "Good! And she got 40% done before restarting. Can you find 40% of 200?"
+    },
+    {
+      "role": "Student",
+      "text": "80 GB?"
+    },
+    {
+      "role": "Tutor",
+      "text": "Right. How long did that 80 GB take?"
+    },
+    {
+      "role": "Student",
+      "text": "80 / 2 = 40 minutes."
+    },
+    {
+      "role": "Tutor",
+      "text": "Exactly. Then what happened?"
+    },
+    {
+      "role": "Student",
+      "text": "An update took 20 minutes. And she starts over, so she has to download 200 GB again. 200 / 2 = 100 minutes. So 40 + 20 + 100 = 160 minutes!"
+    },
+    {
+      "role": "Tutor",
+      "text": "You got it! 160 is the correct answer."
+    }
+  ]
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "problem": "Carla is downloading a 200 GB file at 2 GB/min. At 40%, Windows forces a 20-min update. She restarts from 0. How long does it take?",
+    "dialogue": [
+      {
+        "role": "Student",
+        "text": "I can't figure this out."
+      },
+      {
+        "role": "Tutor",
+        "text": "Let's take it step by step. What do you know?"
+      },
+      {
+        "role": "Student",
+        "text": "Oh okay, I think I have it now! The answer is obvious!"
+      }
+    ]
+  },
+  {
+    "problem": "Write a Python function to reverse a string without using the [::-1] slicing shortcut.",
+    "dialogue": [
+      {
+        "role": "Student",
+        "text": "I can't figure this out."
+      },
+      {
+        "role": "Tutor",
+        "text": "Let's take it step by step. What do you know?"
+      },
+      {
+        "role": "Student",
+        "text": "Oh okay, I think I have it now! The answer is obvious!"
+      }
+    ]
+  },
+  {
+    "problem": "If all bloops are razzies and all razzies are lazzies, are all bloops lazzies?",
+    "dialogue": [
+      {
+        "role": "Student",
+        "text": "I can't figure this out."
+      },
+      {
+        "role": "Tutor",
+        "text": "Let's take it step by step. What do you know?"
+      },
+      {
+        "role": "Student",
+        "text": "Oh okay, I think I have it now! The answer is obvious!"
+      }
+    ]
+  },
+  {
+    "problem": "Explain why ice floats on water in terms of molecular density.",
+    "dialogue": [
+      {
+        "role": "Student",
+        "text": "I can't figure this out."
+      },
+      {
+        "role": "Tutor",
+        "text": "Let's take it step by step. What do you know?"
+      },
+      {
+        "role": "Student",
+        "text": "Oh okay, I think I have it now! The answer is obvious!"
+      }
+    ]
+  }
+]
